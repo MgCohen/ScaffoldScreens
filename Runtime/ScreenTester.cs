@@ -8,7 +8,7 @@ namespace Scaffold.Screens
     {
         public static void Hey()
         {
-            Debug.Log("Hi");
+            Debug.Log("Hi 2");
         }
     }
 }
