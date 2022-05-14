@@ -1,0 +1,16 @@
+{
+  "name": "com.mgc.scaffold.screens",
+  "displayName": "Scaffold Screens",
+  "version": "0.0.1",
+  "unity": "2018.4",
+  "description": "Scaffold module for screens",
+  "keywords": [
+    "scaffold",
+    "screens"
+  ],
+  "author": {
+    "name": "Matheus Cohen",
+    "email": "matheuscohen@hotmail.com",
+    "url": "https://www.matheuscohen.com.br"
+  }
+}
